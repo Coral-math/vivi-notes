@@ -1,37 +1,18 @@
 body {
-    /***
-      ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
-      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
+  /***
+    ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
+    IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
+  ***/
+  /* Exemplo: background-color: white; */
+}
 
-    @keyframes abrirMenu {
-        0% {
-            transform: translateX(-20px);
-            opacity: 0;
-        }
-        100% {
-            transform: translateX(0);
-            opacity: 1;
-        }
-    }
+/* 1) Esconder o ícone padrão (sticky-note) */
+svg[icon-name="sticky-note"] {
+  display: none !important;
+}
 
-    .menu {
-        opacity: 0;
-        transform: translateX(-20px);
-        transition: opacity 0.4s ease-out, transform 0.4s ease-out;
-    }
-
-    /* Quando o menu está aberto */
-    .menu.aberto {
-        animation: abrirMenu 0.4s ease-out;
-        opacity: 1;
-        transform: translateX(0);
-    }
+/* 2) Inserir um emoji antes do título da nota */
+.notelink a.filename::before {
+  content: "📄 ";
+  margin-right: 4px;
 }
