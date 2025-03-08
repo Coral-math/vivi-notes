@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/bem-vinda/","tags":["gardenEntry"],"updated":"2025-03-08T10:17:46.815-03:00"}
+{"dg-publish":true,"permalink":"/bem-vinde/","contentClasses":"","tags":["gardenEntry"],"updated":"2025-03-08T19:16:57.155-03:00"}
 ---
 
-# Bem-vinda ao meu Jardim Digital 🌱
+# Bem-vinde ao meu Jardim Digital 🌱
 
 Me chamo **Coraline Vitória**, sou estudante e atualmente estou focada no **Enem** e na aprovação em **Medicina** e esse é meu jardim digital 😊.
 
