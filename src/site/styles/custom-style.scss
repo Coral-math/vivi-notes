@@ -13,6 +13,6 @@ svg[icon-name="sticky-note"] {
 
 /* 2) Inserir um emoji antes do título da nota */
 .notelink a.filename::before {
-  content: "📄 ";
+  content: "📝 ";
   margin-right: 4px;
 }
