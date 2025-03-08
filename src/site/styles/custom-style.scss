@@ -10,4 +10,28 @@ body {
     //  h1 {
     //   color: black;
     //  }
+
+    @keyframes abrirMenu {
+        0% {
+            transform: translateX(-20px);
+            opacity: 0;
+        }
+        100% {
+            transform: translateX(0);
+            opacity: 1;
+        }
+    }
+
+    .menu {
+        opacity: 0;
+        transform: translateX(-20px);
+        transition: opacity 0.4s ease-out, transform 0.4s ease-out;
+    }
+
+    /* Quando o menu está aberto */
+    .menu.aberto {
+        animation: abrirMenu 0.4s ease-out;
+        opacity: 1;
+        transform: translateX(0);
+    }
 }
