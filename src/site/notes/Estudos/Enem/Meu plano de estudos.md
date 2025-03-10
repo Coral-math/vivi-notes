@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/estudos/enem/meu-plano-de-estudos/","updated":"2025-03-08T18:09:44.588-03:00"}
+{"dg-publish":true,"permalink":"/estudos/enem/meu-plano-de-estudos/","updated":"2025-03-10T08:30:08.738-03:00"}
 ---
 
-> [!note] Para quem pensa em se basear nesse plano
+> [!note|no-title]
 > Esse plano de estudos é para meu 2° ano tentando medicina.
 
 ## Fase 1
@@ -32,7 +32,7 @@ Redação:    [ ] [ ]
 ```
 ## Matemática e Natureza
 
-Matemática: [ ] [ ] [ ] [ ] [ ] [ ] [ ]
+Matemática: [ ] [ ] [ ] [ ] [ ] [ ] 
 Biologia:   [ ] [ ] [ ] 
 
 ## Linguagens e Humanas
