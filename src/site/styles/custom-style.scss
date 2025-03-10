@@ -132,14 +132,6 @@ body {
   --graph-line-color: #c0c9ce;
 }
 
-/* make workspace frameless */
-.workspace-tab-header-container,
-.workspace-ribbon.mod-left:before,
-.mod-macos.is-hidden-frameless:not(.is-popout-window)
-  .sidebar-toggle-button.mod-right {
-  background-color: var(--background-primary);
-}
-
 /* 1) Esconder o ícone padrão (sticky-note) */
 svg[icon-name="sticky-note"] {
   display: none !important;
