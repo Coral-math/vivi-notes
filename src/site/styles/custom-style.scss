@@ -4,6 +4,140 @@ body {
     IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
   ***/
   /* Exemplo: background-color: white; */
+
+  --base-h: 0;
+  --base-s: 0%;
+  --base-d: 15%; /* base lightness for dark mode. 0 is black */
+  --base-l: 96%; /* base lightness for light mode. 100 is white */
+
+  /* rgb: 81, 157, 92 */
+  --theme-accent-h: 129;
+  --theme-accent-s: 31.9%;
+  --theme-accent-l: 46.7%;
+  --theme-accent-d: 46.7%;
+
+  /* WIP - working with relative HSL values
+  --theme-accent-h: calc(var(--accent-h) - 125);
+  --theme-accent-d: calc(var(--accent-d) - 21.3%);
+  --theme-accent-l: calc(var(--accent-l) - 21.3%);
+  --theme-accent-s: calc(var(--accent-s) - 48.1%);
+  */
+}
+
+/* +++ LIGHT MODE */
+.theme-light {
+  --background-primary: hsl(
+    calc(var(--base-h) + 44),
+    calc(var(--base-s) + 79%),
+    calc(var(--base-l) - 2%)
+  );
+  --background-primary-alt: #fcf5e4;
+  --background-secondary: hsl(
+    calc(var(--base-h) + 42),
+    calc(var(--base-s) + 34%),
+    calc(var(--base-l) - 12%)
+  );
+  --background-secondary-alt: #fcf5e4;
+  --background-transparent: hsla(
+    var(--base-h),
+    var(--base-s),
+    var(--base-l),
+    0
+  );
+  --background-translucent: rgba(255, 255, 255, 0.85);
+  --background-modifier-border: hsl(
+    var(--base-h),
+    var(--base-s),
+    calc(var(--base-l) - 6%)
+  );
+  --background-modifier-border-hover: hsl(
+    var(--base-h),
+    var(--base-s),
+    calc(var(--base-l) - 12%)
+  );
+  --background-modifier-border-focus: hsl(
+    var(--base-h),
+    var(--base-s),
+    calc(var(--base-l) - 20%)
+  );
+  --background-modifier-form-field: hsl(
+    var(--base-h),
+    var(--base-s),
+    calc(var(--base-l) + 6%)
+  );
+  --background-modifier-form-field-highlighted: hsl(
+    var(--base-h),
+    var(--base-s),
+    calc(var(--base-l) + 8%)
+  );
+
+  --color-accent: hsl(
+    var(--theme-accent-h),
+    var(--theme-accent-s),
+    var(--theme-accent-l)
+  );
+  --background-modifier-accent: hsl(
+    var(--theme-accent-h),
+    var(--theme-accent-s),
+    calc(var(--theme-accent-l) + 10%)
+  );
+  --vim-cursor: hsla(
+    var(--theme-accent-h),
+    var(--theme-accent-s),
+    var(--theme-accent-l),
+    0.8
+  );
+  --text-accent: hsl(
+    var(--theme-accent-h),
+    var(--theme-accent-s),
+    var(--theme-accent-l)
+  );
+  --text-accent-hover: hsl(
+    var(--theme-accent-h),
+    var(--theme-accent-s),
+    calc(var(--theme-accent-l) - 10%)
+  );
+  --text-normal: hsl(var(--base-h), var(--base-s), var(--base-d));
+  --text-muted: hsl(var(--base-h), var(--base-s), calc(var(--base-d) + 20%));
+  --text-faint: hsl(var(--base-h), var(--base-s), calc(var(--base-d) + 47%));
+
+  --text-highlight-bg: hsla(53, 100%, 50%, 0.5);
+  --text-highlight-bg-active: rgba(255, 128, 0, 0.4);
+  --text-selection: rgba(204, 230, 255, 0.99);
+  --text-on-accent: #f2f2f2;
+
+  --interactive-normal: #f2f3f5;
+  --interactive-hover: #e9e9e9;
+  --interactive-accent: hsl(
+    var(--theme-accent-h),
+    var(--theme-accent-s),
+    calc(var(--theme-accent-l) + 10%)
+  );
+  --interactive-accent-hover: hsl(
+    var(--theme-accent-h),
+    var(--theme-accent-s),
+    calc(var(--theme-accent-l) - 0%)
+  );
+  --interactive-accent-rgb: 123, 108, 217;
+  --interactive-success: #197300;
+
+  --scrollbar-active-thumb-bg: rgba(0, 0, 0, 0.2);
+  --scrollbar-bg: rgba(0, 0, 0, 0.05);
+  --scrollbar-thumb-bg: rgba(0, 0, 0, 0.1);
+  --highlight-mix-blend-mode: darken;
+
+  --icon-color: var(--text-muted);
+  --icon-hex: 000;
+
+  --graph-line-color: #c0c9ce;
+}
+
+/* make workspace frameless */
+.workspace-tab-header-container,
+.workspace-ribbon.mod-left:before,
+.mod-macos.is-hidden-frameless:not(.is-popout-window)
+  .sidebar-toggle-button.mod-right {
+  background-color: var(--background-primary);
 }
 
 /* 1) Esconder o ícone padrão (sticky-note) */
