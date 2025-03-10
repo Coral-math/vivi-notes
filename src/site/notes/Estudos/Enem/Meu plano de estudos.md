@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/estudos/enem/meu-plano-de-estudos/","updated":"2025-03-09T17:55:18.182-03:00"}
+{"dg-publish":true,"permalink":"/estudos/enem/meu-plano-de-estudos/","updated":"2025-03-10T08:30:08.738-03:00"}
 ---
 
 > [!note|no-title]
@@ -32,7 +32,7 @@ Redação:    [ ] [ ]
 ```
 ## Matemática e Natureza
 
-Matemática: [ ] [ ] [ ] [ ] [ ] [ ] [ ]
+Matemática: [ ] [ ] [ ] [ ] [ ] [ ] 
 Biologia:   [ ] [ ] [ ] 
 
 ## Linguagens e Humanas
