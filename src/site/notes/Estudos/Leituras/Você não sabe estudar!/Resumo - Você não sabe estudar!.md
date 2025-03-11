@@ -1,12 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/estudos/leituras/voce-nao-sabe-estudar/resumo-voce-nao-sabe-estudar/","updated":"2025-03-08T18:09:44.155-03:00"}
+{"dg-publish":true,"permalink":"/estudos/leituras/voce-nao-sabe-estudar/resumo-voce-nao-sabe-estudar/","updated":"2025-03-11T18:50:05.986-03:00"}
 ---
 
 **Autor:** #José_Mário_Chaves
 **Data da publicação:** #06/11/2022
 ## Observação
 
-Como se trata de um livro que ensina a estudar, muitas das informações que ele passou são informações que já foram passadas no livro [[Estudos/Leituras/Aprendendo a aprender/Resumo - Aprendendo a aprender\|Aprendendo a aprender]], por conta disso eu destaquei os tópicos que não foram citados no livro. 
+> [!failure] Ponto importante
+> Eu não salvei nesse resumo as dicas específicas para concurseiros, no livro há várias.
+
+Como se trata de um livro que ensina a estudar, muitas das informações que ele passou são informações que já foram passadas no livro [[Estudos/Leituras/Aprendendo a aprender/Resumo - Aprendendo a aprender\|Aprendendo a aprender]], por conta disso eu destaquei os tópicos que não foram citados no livro.
 
 Ademais essas são notas pessoais, recomendo à qualquer pessoa que leia o livro inteiro, é uma leitura relativamente rápida e bastante útil.
 
