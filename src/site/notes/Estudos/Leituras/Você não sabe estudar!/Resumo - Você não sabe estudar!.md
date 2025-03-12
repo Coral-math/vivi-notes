@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/estudos/leituras/voce-nao-sabe-estudar/resumo-voce-nao-sabe-estudar/","updated":"2025-03-11T18:50:05.986-03:00"}
+{"dg-publish":true,"permalink":"/estudos/leituras/voce-nao-sabe-estudar/resumo-voce-nao-sabe-estudar/","updated":"2025-03-11T23:01:41.902-03:00"}
 ---
 
-**Autor:** #José_Mário_Chaves
-**Data da publicação:** #06/11/2022
+> [!info] Informações do livro
+> **Autor:** #José_Mário_Chaves
+> **Data da publicação:** #06/11/2022
+
 ## Observação
 
 > [!failure] Ponto importante

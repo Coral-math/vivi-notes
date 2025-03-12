@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bem-vinde/","tags":["gardenEntry"],"updated":"2025-03-09T21:57:11.786-03:00"}
+{"dg-publish":true,"permalink":"/bem-vinde/","tags":["gardenEntry"],"updated":"2025-03-12T19:28:44.036-03:00"}
 ---
 
 # Bem-vinde ao meu Jardim Digital 🌱
@@ -22,12 +22,12 @@ Acesse as pastas ou utilize a busca para encontrar notas específicas.
 ➡️ **Comece a explorar**
 
 - Começando a estudar
-	- [[Estudos/1. Pré-estudos\|1. Pré-estudos]]
-	- [[Estudos/2. Guia de estudos\|2. Guia de estudos]]
-	- [[Estudos/3. Guia de provas\|3. Guia de provas]]
+	- [[Estudos/1. Pré-estudos - Tempo, Ambiente e Saúde\|1. Pré-estudos - Tempo, Ambiente e Saúde]]
+	- [[Estudos/2. Guia de estudos - Estudo ativo e Memorização\|2. Guia de estudos - Estudo ativo e Memorização]]
+	- [[Estudos/3. Guia de provas - Antes e durante\|3. Guia de provas - Antes e durante]]
 
 - Foco no Enem
-	- [[Estudos/Enem/Assuntos/Incidência de assuntos\|Incidência de assuntos]]
+	- [[Estudos/Enem/Assuntos/Incidência de assuntos\|Incidência de assuntos por matéria]]
 	- [[Estudos/Enem/Meu plano de estudos\|Meu plano de estudos]]
 
 - Anotações por matéria
