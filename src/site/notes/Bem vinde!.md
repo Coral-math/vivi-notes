@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bem-vinde/","tags":["gardenEntry"],"updated":"2025-03-12T19:28:44.036-03:00"}
+{"dg-publish":true,"permalink":"/bem-vinde/","tags":["gardenEntry"],"updated":"2025-03-12T19:37:31.044-03:00"}
 ---
 
 # Bem-vinde ao meu Jardim Digital 🌱
