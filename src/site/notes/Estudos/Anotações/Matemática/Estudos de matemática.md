@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/estudos/anotacoes/matematica/estudos-de-matematica/","updated":"2025-03-10T10:46:42.316-03:00"}
+{"dg-publish":true,"permalink":"/estudos/anotacoes/matematica/estudos-de-matematica/","updated":"2025-03-12T19:28:05.198-03:00"}
 ---
 
 > [!warning] Observação sobre as anotações
