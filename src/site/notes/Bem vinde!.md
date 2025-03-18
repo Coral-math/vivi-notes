@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/bem-vinde/","tags":["gardenEntry"],"updated":"2025-03-12T23:14:58.216-03:00"}
+{"dg-publish":true,"permalink":"/bem-vinde/","tags":["gardenEntry"],"updated":"2025-03-18T10:44:05.380-03:00"}
 ---
 
 # Bem-vinde ao meu Jardim Digital 🌱
 
-Me chamo **Coraline Vitória**, sou estudante e atualmente estou focada no **Enem** e na aprovação em **Medicina** e esse é meu jardim digital 😊.
+Me chamo **Coraline Vitória**, atualmente estou focada em me preparar para a faculdade de Matemática e esse é meu jardim digital 😊.
 
-Você encontrará por aqui minhas anotações, guias e resumos que me ajudam a aprender melhor. Se quiser ver outros repositórios meus, pode visitar meu [GitHub](https://github.com/Coral-med).
+Você encontrará por aqui minhas anotações, guias e resumos que me ajudam a aprender melhor. Se quiser ver meus repositórios, pode visitar meu [GitHub](https://github.com/Coral-med).
 
 ## 📚 O que você encontra aqui?
 
@@ -27,8 +27,8 @@ Acesse as pastas ou utilize a busca para encontrar notas específicas.
 	- [[Estudos/3. Guia de provas\|Guia de provas: Antes e durante]]
 
 - Foco no Enem
-	- [[Estudos/Enem/Assuntos/Incidência de assuntos\|Incidência de assuntos por matéria]]
-	- [[Estudos/Enem/Meu plano de estudos\|Meu plano de estudos]]
+	- [[Estudos/Planejamentos/Enem/Assuntos/Incidência de assuntos\|Incidência de assuntos por matéria]]
+	- [[Estudos/Planejamentos/Enem/Plano Enem\|Plano Enem]]
 
 - Anotações por matéria
 	- [[Estudos/Anotações/Matemática/Estudos de matemática\|Estudos de Matemática]]
