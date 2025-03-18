@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/estudos/planejamentos/matematica-licenciatura/plano-matematica/","updated":"2025-03-18T12:48:26.556-03:00"}
+{"dg-publish":true,"permalink":"/estudos/planejamentos/matematica-licenciatura/plano-matematica/","updated":"2025-03-18T15:36:44.854-03:00"}
 ---
 
 ## Regras gerais
@@ -18,7 +18,7 @@ Todas fases possuem algumas regras básicas, aqui estão elas:
 
 ## Fase 1
 
-**Objetivo:** Concluir matemática básica (Ferretto) e iniciar humanas (sociologia/filosofia) e linguagens.
+**Objetivo:** Concluir matemática básica (Ferretto) e iniciar sociologia/filosofia e linguagens.
 
 ```
 ## Matemática
