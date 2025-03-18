@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/estudos/planejamentos/matematica-licenciatura/plano-matematica/","updated":"2025-03-18T10:41:27.705-03:00"}
+{"dg-publish":true,"permalink":"/estudos/planejamentos/matematica-licenciatura/plano-matematica/","updated":"2025-03-18T12:48:26.556-03:00"}
 ---
 
 ## Regras gerais
