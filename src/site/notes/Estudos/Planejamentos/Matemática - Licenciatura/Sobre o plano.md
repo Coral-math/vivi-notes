@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/estudos/planejamentos/matematica-licenciatura/sobre-o-plano/","updated":"2025-03-18T12:48:21.847-03:00"}
+{"dg-publish":true,"permalink":"/estudos/planejamentos/matematica-licenciatura/sobre-o-plano/","updated":"2025-03-18T20:48:52.488-03:00"}
 ---
 
 ## Observações
@@ -33,9 +33,9 @@ Flashcards de matemática são somente para fórmulas, conceitos, garantir reten
 
 1. Curso matemática básica - Ferretto.
 2. Curso ensino médio - Ferretto.
-3. Aprofundamento em aritmética e álgebra com questões de concurso através dos livros: "Matemática para Vencer" e "O Algebrista".
-4. "Fundamentos da Matemática Elementar" (Livro 1 ao 10).
-5. Leitura dos livros "Um convite à matemática" e "Cálculo 1" para iniciar o nível matemático universitário.
+3. Aprofundamento em aritmética e álgebra com questões de concurso através dos livros: *"Matemática para Vencer"* e *"O Algebrista"*.
+4. *"Fundamentos da Matemática Elementar"* (Livro 1 ao 10).
+5. Leitura dos livros *"Um convite à matemática"* e *"Cálculo 1"* para iniciar o nível matemático universitário.
 
 ### Humanas/Linguagens
 
