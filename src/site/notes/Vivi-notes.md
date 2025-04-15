@@ -33,5 +33,5 @@ Acesse as pastas ou utilize a busca para encontrar notas específicas.
 - **Anotações por matéria**
 	- [[Estudos/Anotações/Matemática/Estudos de matemática\|Estudos de Matemática]]
 	- [[Estudos/Anotações/Humanas/Estudos de Humanas\|Estudos de Humanas]]
-	- [[assets/Pastas paradas/Natureza/Biologia/Estudos de Biologia\|Estudos de Biologia]]
+	- [[Estudos/Anotações/Natureza/Biologia/Estudos de Biologia\|Estudos de Biologia]]
 	- [[Estudos/Anotações/Redação/Estudos de Redação\|Estudos de Redação]]
