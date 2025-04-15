@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/estudos/leituras/aprendendo-a-aprender/resumo-aprendendo-a-aprender/","updated":"2025-03-11T23:01:20.929-03:00"}
+{"dg-publish":true,"permalink":"/estudos/leituras/aprendendo-a-aprender/resumo-aprendendo-a-aprender/"}
 ---
 
 > [!info] Informações do livro
 > **Autora:** #Barbara_Oakley
 > **Data de publicação:** #01/01/2015
 > 
-> Essa página é literalmente o [[Estudos/Leituras/Aprendendo a aprender/Anotações - Aprendendo a aprender#Capítulo 16 - Resumo\|capítulo 16]] do livro, eu separei apenas por praticidade.
+> Essa página é literalmente o [[Estudos/Leituras/Aprendendo a aprender/Aprendendo a aprender - Anotações#Capítulo 16 - Resumo\|capítulo 16]] do livro, eu separei apenas por praticidade.
 
 ### Resumo Geral do Livro
 

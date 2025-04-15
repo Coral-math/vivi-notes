@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/estudos/planejamentos/enem/assuntos/1-matematica-e-natureza/fisica-1/","updated":"2025-03-08T18:09:44.736-03:00"}
+{"dg-publish":true,"permalink":"/estudos/planejamentos/enem/assuntos/1-matematica-e-natureza/fisica-1/"}
 ---
 
 ## Introdução

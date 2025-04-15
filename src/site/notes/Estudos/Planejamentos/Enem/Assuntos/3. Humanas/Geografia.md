@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/estudos/planejamentos/enem/assuntos/3-humanas/geografia/","updated":"2025-03-08T18:09:44.604-03:00"}
+{"dg-publish":true,"permalink":"/estudos/planejamentos/enem/assuntos/3-humanas/geografia/"}
 ---
 
 ## Geografia Física

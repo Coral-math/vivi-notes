@@ -1,11 +1,22 @@
 ---
-{"dg-publish":true,"permalink":"/estudos/planejamentos/matematica-licenciatura/plano-matematica/","updated":"2025-03-18T15:36:44.854-03:00"}
+{"dg-publish":true,"permalink":"/estudos/planejamentos/matematica-licenciatura/plano-matematica/"}
 ---
+
+## Objetivo do plano
+
+Meu plano de estudos cobre os conteúdos necessários para um bom preparo em matemática *(como já foi apresentado no mapa "[[Matemática do zero.canvas|Matemática do zero]]")*. Além disso, ele possui adição de alguns assuntos que eu considero importantes e que não terei tempo para estudar após o começo da graduação.
+
+**Os assuntos que esse plano cobre são:**
+
+- Plano completo de matemática do zero;
+- Ciências Humanas (Sociologia, Filosofia, História e Geografia);
+- Linguagens (Língua portuguesa e Literatura)
 
 ## Regras gerais
 
-Todas fases possuem algumas regras básicas, aqui estão elas:
+Todas fases possuem regras básicas, aqui estão elas:
 
+- A gestão do tempo é feita através de [ciclos de estudos](https://www.youtube.com/watch?v=AjU0UmGHm2Q).
 - **Meta diária:** 2 blocos (4h). Exemplo de distribuição:
 	- 1 bloco matemática + 1 bloco humanas
 	- 1 bloco matemática + 1 bloco linguagens
@@ -13,125 +24,145 @@ Todas fases possuem algumas regras básicas, aqui estão elas:
 - **Como prosseguir ao terminar um conteúdo do ciclo?**
 	- Caso se conclua os conteúdos de uma matéria, deve-se transferir os blocos dela para a matérias mais próxima.
 	- Exemplo: Terminei Sociologia, então os blocos dela devem ser passados para Filosofia.
-- **Requisitos para passar de fase:**
-	- Toda fase tem seus próprios requisitos escritos logo abaixo do ciclo.
 
 ## Fase 1
 
-**Objetivo:** Concluir matemática básica (Ferretto) e iniciar sociologia/filosofia e linguagens.
+**Objetivo:** Introdução aos conceitos mais fundamentais de matemática (fundamental 1).
 
 ```
 ## Matemática
 
-Mat Básica:    [ ] [ ] [ ] [ ] [ ] [ ]
-
-## Humanas
-
-Sociologia:    [ ] [ ] 
-Filosofia:     [ ] [ ] 
-
-## Linguagens
-
-Interpretação: [ ] 
-Literatura:    [ ] 
-
+Fundamental 1:    [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] 
 ```
 
+- **Material de estudos (Matemática):**
+	- [*Khan Academy (1° ao 5° ano do fundamental seguindo a BNCC)*](https://pt.khanacademy.org/math/brazil-math-grades).
 - **Requisitos para passar de fase:**
-	- Terminar matemática básica.
+	- Concluir o Fundamental 1 de Matemática na Khan Academy.
 
 ## Fase 2
 
-**Objetivo:** Consolidar ensino médio de matemática, avançar em sociologia/filosofia e Terminar interpretação/literatura.
+**Objetivo:** Introdução à matemática básica, Sociologia e Língua portuguesa.
 
 ```
 ## Matemática
 
-Mat Médio:     [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] 
+Fundamental 2:  [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] 
 
 ## Humanas
 
-Sociologia:    [ ] 
-Filosofia:     [ ] 
+Sociologia:     [ ] [ ] 
 
 ## Linguagens
 
-Interpretação: [ ] 
-Literatura:    [ ] 
-
+Português:      [ ] [ ] 
 ```
 
+- **Material de estudos:**
+	- **Matemática:**
+		- *[Curso de Matemática Básica do Ferretto](https://www.youtube.com/playlist?list=PLTPg64KdGgYhYpS5nXdFgdqEZDOS5lARB)*.
+	- **Língua portuguesa:**
+		- *[Khan Academy (3° ao 9° ano do fundamental seguindo a BNCC)](https://pt.khanacademy.org/humanities/portugues-por-ano-bncc-ef)*.
 - **Requisitos para passar de fase:**
-	- Terminar Matemática do Médio;
-	- Terminar Interpretação de texto;
-	- Terminar Literatura.
+	- Concluir o curso de Matemática básica do Ferretto.
 
 ## Fase 3
 
-**Objetivo:** Aprofundar aritmética/álgebra (livros para concurso militar) e Terminar os assuntos de sociologia/filosofia.
+**Objetivo:** Grande aprofundamento em todos conteúdos da Matemática Fundamental (fundamental 1 e 2) e conclusão dos conteúdos de Sociologia e Língua portuguesa.
 
 ```
 ## Matemática
 
-Aritmética:    [ ] [ ] [ ] [ ] 
-Álgebra:       [ ] [ ] [ ] [ ] 
+Aprofundamento:  [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] 
 
 ## Humanas
 
-Sociologia:    [ ] [ ] 
-Filosofia:     [ ] [ ] 
+Sociologia:      [ ] [ ] 
 
+## Linguagens
+
+Português:       [ ] [ ] 
 ```
 
+- **Material de estudos:**
+	- **Matemática:**
+		1. *Teoria e Questões de Matemática - Ensino Fundamental (Roberto Ávila)*;
+		2. *Tópicos de Álgebra Elementar (Bruno Pedra, Ivan Monteiro e Alex Ricardo)*.
+	- **Língua portuguesa:**
+		- *[Khan Academy (3° ao 9° ano do fundamental seguindo a BNCC)](https://pt.khanacademy.org/humanities/portugues-por-ano-bncc-ef)*.
 - **Requisitos para passar de fase:**
-	- Terminar o livro de Aritmética;
-	- Terminar o livro de Álgebra (vol 1);
-	- Terminar Sociologia;
-	- Terminar Filosofia.
+	- Concluir os livros de matemática (na ordem apresentada);
+	- Concluir os conteúdos de Sociologia;
+	- Concluir os conteúdos de Língua portuguesa.
 
 ## Fase 4
 
-**Objetivo:** Preparação para cálculo (livros intermediários) e iniciar conteúdos de história/geografia.
+**Objetivo:** Introdução à Matemática Elementar (ensino médio) e introdução e conclusão dos conteúdos de História e Geografia.
 
 ```
 ## Matemática
 
-Mat Elementar:  [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
+Elementar:    [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
 
 ## Humanas
 
-História:       [ ] [ ] 
-Geografia:      [ ] [ ] 
-
+História:     [ ] [ ] 
+Geografia:    [ ] [ ]
 ```
 
+- **Material de estudos (Matemática):**
+	- *Fundamentos da Matemática Elementar (Gelson Lezzi e Carlos Murakami)*;
 - **Requisitos para passar de fase:**
-	- Terminar Matemática Elementar;
-	- Terminar História;
-	- Terminar Geografia.
+	- Concluir toda coleção de *Fundamentos da Matemática Elementar*;
+	- Concluir os conteúdos de História;
+	- Concluir os conteúdos de Geografia.
 
-## Fase 5 - Opcional
+## Fase 5
 
-**Objetivo:** Introdução à matemática universitária e cálculo 1 caso sobre tempo.
+**Objetivo:** Aprofundamento e teste de conhecimento de todos conteúdos de matemática estudados até o momento através de questões de matemática e introdução aos conteúdos de Filosofia e Literatura.
 
 ```
 ## Matemática
 
-"Um Convite à Matemática":  [ ] [ ] [ ] [ ] [ ] [ ] 
-"Cálculo 1, do Stuart":     [ ] [ ] [ ] [ ] [ ] [ ] 
+Questões:    [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
 
+## Humanas
+
+Filosofia:   [ ] [ ] 
+
+## Linguagens
+
+Literatura:  [ ] [ ] 
 ```
 
-- **Meta diária:** 2 blocos (4h). Exemplo:
-	- 2 blocos matemática (teoria + exercícios complexos)
-	- 1 bloco humanas (geopolítica/clima) + 1 bloco linguagens
-- **Revisões:** Use flashcards para revisar fórmulas matemáticas e conceitos de sociologia/filosofia antes de cada bloco.
+- **Material de estudos (Matemática):**
+	- *1000 Questões De Matemática - Escolas Militares E Ensino Médio (Julianelli Et Al)*;
+- **Requisitos para passar de fase:**
+	- Fazer pelo menos metade das questões de cada um dos capítulos do livro *"1000 Questões De Matemática"*.
 
-### Notas Importantes
+## Fase 6
 
-1. **Flashcards:** Crie cards para:
-	- Matemática: Fórmulas, propriedades e erros comuns.
-	- Humanas: Eventos históricos, filósofos e conceitos geopolíticos.
-	- Linguagens: Pessoas, obras, contextos históricos e conceitos literários.
-2. **Revisões:** No 1° bloco da matéria, faça todas flashcards pendentes dela.
-3. **Flexibilidade:** Se precisar ajustar o ritmo em humanas ou linguagens, redistribua blocos das matérias conforme progresso.
+**Objetivo:** Introdução ao nível superior de matemática e conclusão dos conteúdos de História e Geografia.
+
+```
+## Matemática
+
+Pré-cálculo:   [ ] [ ] [ ] [ ] 
+Lógica:        [ ] [ ] [ ] [ ] 
+
+## Humanas
+
+Filosofia:     [ ] [ ] 
+
+## Linguagens
+
+Literatura:    [ ] [ ] 
+```
+
+- **Material de estudos (Matemática):**
+	- **Pré-cálculo:** *Pré-Cálculo (Francisco Magalhães Gomes)*;
+	- **Lógica:** *Um convite à Matemática (Daniel Cordeiro de Morais Filho)*.
+- **Requisitos para passar de fase:**
+	- Concluir os livros de matemática;
+	- Concluir os conteúdos de Filosofia;
+	- Concluir os conteúdos de Literatura.

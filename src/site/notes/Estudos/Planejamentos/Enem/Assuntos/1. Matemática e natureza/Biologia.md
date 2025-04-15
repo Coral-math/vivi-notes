@@ -1,17 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/estudos/planejamentos/enem/assuntos/1-matematica-e-natureza/biologia/","updated":"2025-03-08T18:09:44.765-03:00"}
+{"dg-publish":true,"permalink":"/estudos/planejamentos/enem/assuntos/1-matematica-e-natureza/biologia/"}
 ---
 
 ## Biologia 1: Estrutura e Função dos Seres Vivos
 
-**Características Gerais dos Seres Vivos**
+### Características Gerais dos Seres Vivos
 
 - Introdução: Componentes da Matéria Viva
 - Água, Sais Minerais, Carboidratos, Lipídios e Proteínas
 - Enzimas
 - Vitaminas
 
-**Citologia**
+### Citologia
 
 - Introdução à Citologia: a Célula
 - Microscopia
@@ -29,7 +29,7 @@
 	- Divisão Celular: Interfase, Mitose e Meiose
 	- Alterações Cromossômicas
 
-**Genética e Biotecnologia**
+### Genética e Biotecnologia
 
 - Introdução à Genética
 	- 1° Lei de Mendel: Lei da Segregação
@@ -53,7 +53,7 @@
 	- Transgênicos
 	- Teste de Paternidade
 
-**Histologia**
+### Histologia
 
 - Introdução à Histologia
 - Tecido Epitelial
@@ -71,7 +71,7 @@
 	- Impulso Nervoso
 	- Sinapses
 
-**Fisiologia Humana**
+### Fisiologia Humana
 
 - Sistema Digestório
 - Sistema Respiratório
@@ -95,7 +95,7 @@
 
 ## Biologia 2: Diversidade da Vida e Ecologia
 
-**Introdução à Botânica**
+### Introdução à Botânica
 
 - Gimnosperma
 - Angiospermas
@@ -104,7 +104,7 @@
 	- Fotossíntese
 	- Quimiossíntese
 
-**Introdução à Zoologia**
+### Introdução à Zoologia
 
 - Platelmintos
 - Nematelmintos
@@ -120,7 +120,7 @@
 	- Cordados: Mamíferos
 	- Cordados Fisiologia Comparada
 
-**Microbiologia e Parasitologia**
+### Microbiologia e Parasitologia
 
 - Introdução à Microbiologia
 	- Vírus
@@ -132,7 +132,7 @@
 	- Doenças Causadas por Protozoários
 - Introdução à Parasitologia
 
-**Ecologia**
+### Ecologia
 
 - Introdução à Ecologia
 	- Nicho Ecológico
@@ -147,7 +147,7 @@
 	- Aquecimento Global
 	- Humanidade e Ambiente
 
-**Desequilíbrios Ecológicos**
+### Desequilíbrios Ecológicos
 
 - Poluição
 - Saúde Pública (Soro e Vacina)
