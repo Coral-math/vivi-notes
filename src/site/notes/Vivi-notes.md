@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vivi-notes/"}
+{"dg-publish":true,"permalink":"/vivi-notes/","tags":["gardenEntry"]}
 ---
 
 ## Bem-vinde ao meu Jardim Digital 🌱
