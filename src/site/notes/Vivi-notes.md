@@ -35,3 +35,4 @@ Acesse as pastas ou utilize a busca para encontrar notas específicas.
 	- [[Estudos/Anotações/Humanas/Estudos de Humanas\|Estudos de Humanas]]
 	- [[Estudos/Anotações/Natureza/Biologia/Estudos de Biologia\|Estudos de Biologia]]
 	- [[Estudos/Anotações/Redação/Estudos de Redação\|Estudos de Redação]]
+	- [[Estudos/Anotações/Linguagens/Estudos de Linguagens\|Estudos de Linguagens]]
