@@ -4,7 +4,7 @@
 
 ## Bem-vinde ao meu Jardim Digital 🌱
 
-Me chamo **Coraline Vitória**, atualmente estou focada em me preparar para a faculdade de Matemática e esse é meu jardim digital 😊.
+Me chamo **Vittela**, atualmente estou focada em me preparar para a faculdade de Matemática e esse é meu jardim digital 😊.
 
 Você encontrará por aqui minhas anotações, guias e resumos que me ajudam a aprender melhor. Se quiser ver meus repositórios, pode visitar meu [GitHub](https://github.com/Coral-math).
 

@@ -14,9 +14,9 @@
 		- [[Estudos/Anotações/Matemática/1. Fundamental 1/2. Operações/2.1. Adição\|2.1. Adição]]
 		- [[Estudos/Anotações/Matemática/1. Fundamental 1/2. Operações/2.2. Subtração\|2.2. Subtração]]
 		- [[Estudos/Anotações/Matemática/1. Fundamental 1/2. Operações/2.3. Multiplicação\|2.3. Multiplicação]]
-		- [[Estudos/Anotações/Matemática/1. Fundamental 1/2. Operações/2.5. Divisão\|2.5. Divisão]]
-		- [[Estudos/Anotações/Matemática/1. Fundamental 1/2. Operações/2.7. Operações com frações\|2.7. Operações com frações]]
-		- [[Estudos/Anotações/Matemática/1. Fundamental 1/2. Operações/2.8. Operações com números negativos\|2.8. Operações com números negativos]]
+		- [[Estudos/Anotações/Matemática/1. Fundamental 1/2. Operações/2.4. Divisão\|2.4. Divisão]]
+		- [[Estudos/Anotações/Matemática/1. Fundamental 1/2. Operações/2.5. Operações com frações\|2.5. Operações com frações]]
+		- [[Estudos/Anotações/Matemática/1. Fundamental 1/2. Operações/2.6. Operações com números negativos\|2.6. Operações com números negativos]]
 	- **3. Álgebra**
 		- [[Estudos/Anotações/Matemática/1. Fundamental 1/3. Álgebra/3.1. Sequências numéricas\|3.1. Sequências numéricas]]
 		- [[Estudos/Anotações/Matemática/1. Fundamental 1/3. Álgebra/3.2. Igualdade (=)\|3.2. Igualdade (=)]]
