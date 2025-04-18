@@ -46,7 +46,7 @@
 		- [[Estudos/Anotações/Matemática/2. Fundamental 2/1. Operações fundamentais/1.3. Detalhando - Propriedades básicas das operações\|1.3. Detalhando - Propriedades básicas das operações]]
 		- [[Estudos/Anotações/Matemática/2. Fundamental 2/1. Operações fundamentais/1.4. Expressões numéricas\|1.4. Expressões numéricas]]
 	- **2. Divisibilidade e múltiplos**
-		- [[Estudos/Anotações/Matemática/2. Fundamental 2/2. Divisibilidade e múltiplos/Fatoração\|Fatoração]]
+		- [[Estudos/Anotações/Matemática/2. Fundamental 2/2. Divisibilidade e múltiplos/2.1. Fatoração - Rascunho\|2.1. Fatoração - Rascunho]]
 	- **3. Frações e números decimais**
 		- [[Estudos/Anotações/Matemática/2. Fundamental 2/3. Frações e números decimais/2.1. Frações - Revisão\|2.1. Frações - Revisão]]
 	- **4. Potências e raízes**
