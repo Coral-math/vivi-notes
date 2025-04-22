@@ -142,3 +142,67 @@ svg[icon-name="sticky-note"] {
   content: "📝 ";
   margin-right: 4px;
 }
+
+/* =============== VISUALIZAÇÃO (Preview) =============== */
+.markdown-preview-view h1 { font-size: 2em; }
+.markdown-preview-view h2 { font-size: 1.75em; }
+.markdown-preview-view h3 { font-size: 1.5em; }
+.markdown-preview-view h4 { font-size: 1.25em; }
+.markdown-preview-view h5 { font-size: 1.1em; }
+.markdown-preview-view h6 { font-size: 1em; }
+
+/* =============== EDIÇÃO (Live Preview / Legacy) =============== */
+/* Aplica a formatação dos títulos no modo edição de forma consistente com o preview */
+.markdown-source-view .cm-h1,
+.markdown-source-view .cm-heading-level-1,
+.markdown-source-view .HyperMD-header-1,
+.markdown-source-view .cm-header-1 {
+  font-size: 2em;
+}
+
+.markdown-source-view .cm-h2,
+.markdown-source-view .cm-heading-level-2,
+.markdown-source-view .HyperMD-header-2,
+.markdown-source-view .cm-header-2 {
+  font-size: 1.75em;
+}
+
+.markdown-source-view .cm-h3,
+.markdown-source-view .cm-heading-level-3,
+.markdown-source-view .HyperMD-header-3,
+.markdown-source-view .cm-header-3 {
+  font-size: 1.5em;
+}
+
+.markdown-source-view .cm-h4,
+.markdown-source-view .cm-heading-level-4,
+.markdown-source-view .HyperMD-header-4,
+.markdown-source-view .cm-header-4 {
+  font-size: 1.25em;
+}
+
+.markdown-source-view .cm-h5,
+.markdown-source-view .cm-heading-level-5,
+.markdown-source-view .HyperMD-header-5,
+.markdown-source-view .cm-header-5 {
+  font-size: 1.1em;
+}
+
+.markdown-source-view .cm-h6,
+.markdown-source-view .cm-heading-level-6,
+.markdown-source-view .HyperMD-header-6,
+.markdown-source-view .cm-header-6 {
+  font-size: 1em;
+}
+
+/* Garante que os títulos inline no modo edição herdem o tamanho correto */
+.markdown-source-view .cm-line span.cm-header,
+.markdown-source-view .cm-content .cm-header {
+  font-size: inherit;
+}
+
+/* =============== TÍTULO EMBUTIDO ACIMA DO TEXTO =============== */
+.markdown-source-view .inline-title,
+.workspace-leaf-content .inline-title {
+  font-size: 2.2em;
+}
