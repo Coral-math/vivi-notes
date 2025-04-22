@@ -47,9 +47,9 @@
 		- [[Estudos/Anotações/Matemática/2. Fundamental 2/1. Operações fundamentais/1.4. Expressões numéricas\|1.4. Expressões numéricas]]
 	- **2. Divisibilidade e múltiplos**
 		- [[Estudos/Anotações/Matemática/2. Fundamental 2/2. Divisibilidade e múltiplos/2.1. Fatoração e divisibilidade - Rascunho\|2.1. Fatoração e divisibilidade - Rascunho]]
-	- **3. Frações**
-		- [[Estudos/Anotações/Matemática/2. Fundamental 2/3. Frações/3.1. Frações\|3.1. Frações]]
-		- [[Estudos/Anotações/Matemática/2. Fundamental 2/3. Frações/3.2. Números decimais - Rascunho\|3.2. Números decimais - Rascunho]]
+	- **3. Frações e números decimais**
+		- [[Estudos/Anotações/Matemática/2. Fundamental 2/3. Frações e números decimais/3.1. Frações\|3.1. Frações]]
+		- [[Estudos/Anotações/Matemática/2. Fundamental 2/3. Frações e números decimais/3.2. Números decimais\|3.2. Números decimais]]
 	- **4. Potências e raízes**
 		- [[Estudos/Anotações/Matemática/2. Fundamental 2/4. Potências e raízes/4.1. Potenciação\|4.1. Potenciação]]
 		- [[Estudos/Anotações/Matemática/2. Fundamental 2/4. Potências e raízes/4.2. Radiciação\|4.2. Radiciação]]
@@ -60,8 +60,9 @@
 		- [[Estudos/Anotações/Matemática/2. Fundamental 2/5. Medidas e proporcionalidade/5.3. Proporção - Rascunho\|5.3. Proporção - Rascunho]]
 	- **6. Expressões algébricas**
 		- [[Estudos/Anotações/Matemática/2. Fundamental 2/6. Expressões algébricas/6.1. Produtos notáveis\|6.1. Produtos notáveis]]
-		- [[Estudos/Anotações/Matemática/2. Fundamental 2/6. Expressões algébricas/6.2. Racionalização de denominadores\|6.2. Racionalização de denominadores]]
-		- [[Estudos/Anotações/Matemática/2. Fundamental 2/6. Expressões algébricas/6.3. Fatoração de expressões algébricas - Rascunho\|6.3. Fatoração de expressões algébricas - Rascunho]]
+		- [[Estudos/Anotações/Matemática/2. Fundamental 2/6. Expressões algébricas/6.2. Frações algébricas - Rascunho\|6.2. Frações algébricas - Rascunho]]
+		- [[Estudos/Anotações/Matemática/2. Fundamental 2/6. Expressões algébricas/6.3. Racionalização de denominadores\|6.3. Racionalização de denominadores]]
+		- [[Estudos/Anotações/Matemática/2. Fundamental 2/6. Expressões algébricas/6.4. Fatoração de expressões algébricas - Rascunho\|6.4. Fatoração de expressões algébricas - Rascunho]]
 	- **7. Equações e sistemas algébricos**
 	- **8. Porcentagem e juros**
 		- [[Estudos/Anotações/Matemática/2. Fundamental 2/8. Porcentagem e juros/8.1. Porcentagem - Rascunho\|8.1. Porcentagem - Rascunho]]
