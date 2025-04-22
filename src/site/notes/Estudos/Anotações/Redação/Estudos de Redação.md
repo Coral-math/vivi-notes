@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/estudos/anotacoes/redacao/estudos-de-redacao/","updated":"2025-03-08T18:09:44.378-03:00"}
+{"dg-publish":true,"permalink":"/estudos/anotacoes/redacao/estudos-de-redacao/"}
 ---
 
 > [!warning] Para quem pensa em usar esse guia

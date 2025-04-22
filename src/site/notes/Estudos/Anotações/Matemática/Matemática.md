@@ -1,0 +1,73 @@
+---
+{"dg-publish":true,"permalink":"/estudos/anotacoes/matematica/matematica/"}
+---
+
+
+- **1. Fundamental 1**
+	- **1. Números**
+		- [[Estudos/Anotações/Matemática/1. Fundamental 1/1. Números/1.1. Sistema de numeração decimal\|1.1. Sistema de numeração decimal]]
+		- [[Estudos/Anotações/Matemática/1. Fundamental 1/1. Números/1.2. Números negativos\|1.2. Números negativos]]
+		- [[Estudos/Anotações/Matemática/1. Fundamental 1/1. Números/1.3. Comparando valores\|1.3. Comparando valores]]
+		- [[Estudos/Anotações/Matemática/1. Fundamental 1/1. Números/1.4. Frações\|1.4. Frações]]
+		- [[Estudos/Anotações/Matemática/1. Fundamental 1/1. Números/1.5. Conjuntos numéricos\|1.5. Conjuntos numéricos]]
+	- **2. Operações**
+		- [[Estudos/Anotações/Matemática/1. Fundamental 1/2. Operações/2.1. Adição\|2.1. Adição]]
+		- [[Estudos/Anotações/Matemática/1. Fundamental 1/2. Operações/2.2. Subtração\|2.2. Subtração]]
+		- [[Estudos/Anotações/Matemática/1. Fundamental 1/2. Operações/2.3. Multiplicação\|2.3. Multiplicação]]
+		- [[Estudos/Anotações/Matemática/1. Fundamental 1/2. Operações/2.4. Divisão\|2.4. Divisão]]
+		- [[Estudos/Anotações/Matemática/1. Fundamental 1/2. Operações/2.5. Operações com frações\|2.5. Operações com frações]]
+		- [[Estudos/Anotações/Matemática/1. Fundamental 1/2. Operações/2.6. Operações com números negativos\|2.6. Operações com números negativos]]
+	- **3. Álgebra**
+		- [[Estudos/Anotações/Matemática/1. Fundamental 1/3. Álgebra/3.1. Sequências numéricas\|3.1. Sequências numéricas]]
+		- [[Estudos/Anotações/Matemática/1. Fundamental 1/3. Álgebra/3.2. Igualdade (=)\|3.2. Igualdade (=)]]
+		- [[Estudos/Anotações/Matemática/1. Fundamental 1/3. Álgebra/3.3. Padrões aritméticos\|3.3. Padrões aritméticos]]
+		- [[Estudos/Anotações/Matemática/1. Fundamental 1/3. Álgebra/3.4. Introdução à equações\|3.4. Introdução à equações]]
+		- [[Estudos/Anotações/Matemática/1. Fundamental 1/3. Álgebra/3.5. Operações inversas em equações\|3.5. Operações inversas em equações]]
+		- [[Estudos/Anotações/Matemática/1. Fundamental 1/3. Álgebra/3.6. Problemas com equações\|3.6. Problemas com equações]]
+	- **4. Geometria plana**
+		- [[Estudos/Anotações/Matemática/1. Fundamental 1/4. Geometria plana/4.1. Introdução à geometria\|4.1. Introdução à geometria]]
+		- [[Estudos/Anotações/Matemática/1. Fundamental 1/4. Geometria plana/4.2. Introdução às formas planas\|4.2. Introdução às formas planas]]
+		- [[Estudos/Anotações/Matemática/1. Fundamental 1/4. Geometria plana/4.3. Direção e sentido\|4.3. Direção e sentido]]
+		- [[Estudos/Anotações/Matemática/1. Fundamental 1/4. Geometria plana/4.4. Detalhando retas\|4.4. Detalhando retas]]
+		- [[Estudos/Anotações/Matemática/1. Fundamental 1/4. Geometria plana/4.5. Ângulos\|4.5. Ângulos]]
+		- [[Estudos/Anotações/Matemática/1. Fundamental 1/4. Geometria plana/4.6. Perímetro e área\|4.6. Perímetro e área]]
+		- [[Estudos/Anotações/Matemática/1. Fundamental 1/4. Geometria plana/4.7. Plano cartesiano e coordenadas\|4.7. Plano cartesiano e coordenadas]]
+	- **5. Grandezas e medidas**
+		- [[Estudos/Anotações/Matemática/1. Fundamental 1/5. Grandezas e medidas/5.1. Medidas de tempo\|5.1. Medidas de tempo]]
+		- [[Estudos/Anotações/Matemática/1. Fundamental 1/5. Grandezas e medidas/5.2. Unidades de medida\|5.2. Unidades de medida]]
+	- **6. Probabilidade e estatística**
+		- [[Estudos/Anotações/Matemática/1. Fundamental 1/6. Probabilidade e estatística/6.1. Gráfico de barras\|6.1. Gráfico de barras]]
+		- [[Estudos/Anotações/Matemática/1. Fundamental 1/6. Probabilidade e estatística/6.2. Tabelas\|6.2. Tabelas]]
+		- [[Estudos/Anotações/Matemática/1. Fundamental 1/6. Probabilidade e estatística/6.3. Introdução à eventos aleatórios\|6.3. Introdução à eventos aleatórios]]
+- **2. Fundamental 2**
+	- **1. Operações fundamentais**
+		- [[Estudos/Anotações/Matemática/2. Fundamental 2/1. Operações fundamentais/1.1. Adição e subtração\|1.1. Adição e subtração]]
+		- [[Estudos/Anotações/Matemática/2. Fundamental 2/1. Operações fundamentais/1.2. Multiplicação e divisão\|1.2. Multiplicação e divisão]]
+		- [[Estudos/Anotações/Matemática/2. Fundamental 2/1. Operações fundamentais/1.3. Detalhando - Propriedades básicas das operações\|1.3. Detalhando - Propriedades básicas das operações]]
+		- [[Estudos/Anotações/Matemática/2. Fundamental 2/1. Operações fundamentais/1.4. Expressões numéricas\|1.4. Expressões numéricas]]
+	- **2. Divisibilidade e múltiplos**
+		- [[Estudos/Anotações/Matemática/2. Fundamental 2/2. Divisibilidade e múltiplos/2.1. Fatoração e divisibilidade - Rascunho\|2.1. Fatoração e divisibilidade - Rascunho]]
+	- **3. Frações**
+		- [[Estudos/Anotações/Matemática/2. Fundamental 2/3. Frações/3.1. Frações\|3.1. Frações]]
+		- [[Estudos/Anotações/Matemática/2. Fundamental 2/3. Frações/3.2. Números decimais - Rascunho\|3.2. Números decimais - Rascunho]]
+	- **4. Potências e raízes**
+		- [[Estudos/Anotações/Matemática/2. Fundamental 2/4. Potências e raízes/4.1. Potenciação\|4.1. Potenciação]]
+		- [[Estudos/Anotações/Matemática/2. Fundamental 2/4. Potências e raízes/4.2. Radiciação\|4.2. Radiciação]]
+		- [[Estudos/Anotações/Matemática/2. Fundamental 2/4. Potências e raízes/4.3. Potências de dez e Notação científica - Rascunho\|4.3. Potências de dez e Notação científica - Rascunho]]
+		- [[Estudos/Anotações/Matemática/2. Fundamental 2/4. Potências e raízes/4.4. Sistema de numeração decimal\|4.4. Sistema de numeração decimal]]
+	- **5. Medidas e proporcionalidade**
+		- [[Estudos/Anotações/Matemática/2. Fundamental 2/5. Medidas e proporcionalidade/5.2. Razão - Rascunho\|5.2. Razão - Rascunho]]
+		- [[Estudos/Anotações/Matemática/2. Fundamental 2/5. Medidas e proporcionalidade/5.3. Proporção - Rascunho\|5.3. Proporção - Rascunho]]
+	- **6. Expressões algébricas**
+		- [[Estudos/Anotações/Matemática/2. Fundamental 2/6. Expressões algébricas/6.1. Produtos notáveis\|6.1. Produtos notáveis]]
+		- [[Estudos/Anotações/Matemática/2. Fundamental 2/6. Expressões algébricas/6.2. Racionalização de denominadores\|6.2. Racionalização de denominadores]]
+		- [[Estudos/Anotações/Matemática/2. Fundamental 2/6. Expressões algébricas/6.3. Fatoração de expressões algébricas - Rascunho\|6.3. Fatoração de expressões algébricas - Rascunho]]
+	- **7. Equações e sistemas algébricos**
+	- **8. Porcentagem e juros**
+		- [[Estudos/Anotações/Matemática/2. Fundamental 2/8. Porcentagem e juros/8.1. Porcentagem - Rascunho\|8.1. Porcentagem - Rascunho]]
+- **3. Aprofundamento**
+- **4. Matemática Elementar**
+- [[Estudos/Anotações/Matemática/Anotações para questões\|Anotações para questões]]
+- [[Estudos/Anotações/Matemática/Estudos de matemática\|Estudos de matemática]]
+- [[Estudos/Anotações/Matemática/Matemática\|Matemática]]
+

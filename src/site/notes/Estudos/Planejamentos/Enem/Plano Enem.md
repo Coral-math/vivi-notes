@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/estudos/planejamentos/enem/plano-enem/","updated":"2025-03-18T01:06:27.470-03:00"}
+{"dg-publish":true,"permalink":"/estudos/planejamentos/enem/plano-enem/"}
 ---
 
 > [!warning]

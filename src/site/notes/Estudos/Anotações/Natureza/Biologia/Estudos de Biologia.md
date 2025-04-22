@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/estudos/anotacoes/natureza/biologia/estudos-de-biologia/","updated":"2025-03-08T18:09:44.414-03:00"}
+{"dg-publish":true,"permalink":"/estudos/anotacoes/natureza/biologia/estudos-de-biologia/"}
 ---
 
 > [!warning] Para quem pensa em usar esse guia

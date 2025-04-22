@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/estudos/planejamentos/enem/assuntos/incidencia-de-assuntos/","updated":"2025-03-08T18:09:44.588-03:00"}
+{"dg-publish":true,"permalink":"/estudos/planejamentos/enem/assuntos/incidencia-de-assuntos/"}
 ---
 
 ## Introdução

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/estudos/planejamentos/enem/assuntos/3-humanas/filosofia-e-sociologia/","updated":"2025-03-18T00:05:57.758-03:00"}
+{"dg-publish":true,"permalink":"/estudos/planejamentos/enem/assuntos/3-humanas/filosofia-e-sociologia/"}
 ---
 
 ## Filosofia

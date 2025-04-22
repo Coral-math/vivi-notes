@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/estudos/leituras/habitos-atomicos/resumo-habitos-atomicos/","updated":"2025-03-11T23:00:53.656-03:00"}
+{"dg-publish":true,"permalink":"/estudos/leituras/habitos-atomicos/resumo-habitos-atomicos/"}
 ---
 
 > [!info] Informações do livro
@@ -37,21 +37,22 @@
 - A **expectativa** da recompensa é mais motivadora que a recompensa em si.
 - **Fontes de desejos humanos:**
     - Economizar energia, obter alimento/água, encontrar amor, obter aprovação social, reduzir incertezas, alcançar status.
+    - Entenda suas vontades através desses desejos fundamentais. Vontade de comprar hamburguer, pode ser simplificada como "Vontade de consumir gorduras". Isso torna mais fácil de substituir vontades.
 
 ## Reformulando Seus Hábitos
 
 1. **Reforce os benefícios:**
     - “Preciso correr” → “Ganhar resistência é gratificante.”
 2. **O poder da linguagem:**
-    - Substitua “tenho que” por “eu escolho.”
+    - Substitua “tenho que” por “eu quero.”
 
 ## A Quantidade Leva à Qualidade
 
 1. **Movimento vs. Ação:**
-    - Movimento: Planejamento (baixa recompensa imediata).
-    - Ação: Implementação (impacto direto nos resultados).
+    - Movimento: Planejamento (baixo risco de falha, então recompensador).
+    - Ação: Implementação (chance de falha, então gera medo, mas é a parte mais importante).
 2. **Para formar hábitos:**
-    - Repetição é mais importante que perfeição no início.
+    - Repetição é mais importante que perfeição no início, pois a repetição leva a perfeição.
 
 ## Automaticidade e Frequência
 

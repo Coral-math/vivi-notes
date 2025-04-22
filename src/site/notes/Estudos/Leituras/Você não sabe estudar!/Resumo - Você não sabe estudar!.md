@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/estudos/leituras/voce-nao-sabe-estudar/resumo-voce-nao-sabe-estudar/","updated":"2025-03-11T23:01:41.902-03:00"}
+{"dg-publish":true,"permalink":"/estudos/leituras/voce-nao-sabe-estudar/resumo-voce-nao-sabe-estudar/"}
 ---
 
 > [!info] Informações do livro
