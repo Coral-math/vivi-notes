@@ -60,7 +60,7 @@
 		- [[Estudos/Anotações/Matemática/2. Fundamental 2/5. Medidas e proporcionalidade/5.3. Proporção - Rascunho\|5.3. Proporção - Rascunho]]
 	- **6. Expressões algébricas**
 		- [[Estudos/Anotações/Matemática/2. Fundamental 2/6. Expressões algébricas/6.1. Produtos notáveis\|6.1. Produtos notáveis]]
-		- [[Estudos/Anotações/Matemática/2. Fundamental 2/6. Expressões algébricas/6.2. Frações algébricas - Rascunho\|6.2. Frações algébricas - Rascunho]]
+		- [[Estudos/Anotações/Matemática/2. Fundamental 2/6. Expressões algébricas/6.2. Frações algébricas\|6.2. Frações algébricas]]
 		- [[Estudos/Anotações/Matemática/2. Fundamental 2/6. Expressões algébricas/6.3. Racionalização de denominadores\|6.3. Racionalização de denominadores]]
 		- [[Estudos/Anotações/Matemática/2. Fundamental 2/6. Expressões algébricas/6.4. Fatoração de expressões algébricas - Rascunho\|6.4. Fatoração de expressões algébricas - Rascunho]]
 	- **7. Equações e sistemas algébricos**
