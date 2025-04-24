@@ -6,9 +6,12 @@
 - [[Estudos/Anotações/Linguagens/Estudos de Linguagens\|Estudos de Linguagens]]
 - **Interpretação de texto**
 	- **1. Teoria da comunicação**
-		- [[Estudos/Anotações/Linguagens/Interpretação de texto/1. Teoria da comunicação/Texto e interpretação textual\|Texto e interpretação textual]]
+		- [[Estudos/Anotações/Linguagens/Interpretação de texto/1. Teoria da comunicação/1. Texto e Interpretação textual\|1. Texto e Interpretação textual]]
 - [[Estudos/Anotações/Linguagens/Linguagens\|Linguagens]]
 - **Português**
-	- [[Estudos/Anotações/Linguagens/Português/1. Sílabas, vogais e consoantes\|1. Sílabas, vogais e consoantes]]
-	- [[Estudos/Anotações/Linguagens/Português/2. Oxítonas, paroxítonas e proparoxítonas\|2. Oxítonas, paroxítonas e proparoxítonas]]
+	- **1. Gramática**
+		- [[Estudos/Anotações/Linguagens/Português/1. Gramática/1.1. Substantivos\|1.1. Substantivos]]
+	- **2. Práticas de linguagem**
+		- [[Estudos/Anotações/Linguagens/Português/2. Práticas de linguagem/2.1. Língua e Linguagem\|2.1. Língua e Linguagem]]
+		- [[Estudos/Anotações/Linguagens/Português/2. Práticas de linguagem/2.2. Variedades linguísticas\|2.2. Variedades linguísticas]]
 
