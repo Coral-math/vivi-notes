@@ -6,7 +6,7 @@
 - [[Estudos/Anotações/Linguagens/Estudos de Linguagens\|Estudos de Linguagens]]
 - **Interpretação de texto**
 	- **1. Teoria da comunicação**
-		- [[Estudos/Anotações/Linguagens/Interpretação de texto/1. Teoria da comunicação/1. Texto e Interpretação textual\|1. Texto e Interpretação textual]]
+		- [[Estudos/Anotações/Linguagens/Interpretação de texto/1. Teoria da comunicação/1.1. Texto e Interpretação textual\|1.1. Texto e Interpretação textual]]
 - [[Estudos/Anotações/Linguagens/Linguagens\|Linguagens]]
 - **Português**
 	- **1. Gramática**
