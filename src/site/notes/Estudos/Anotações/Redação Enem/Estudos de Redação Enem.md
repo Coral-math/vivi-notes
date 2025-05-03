@@ -24,7 +24,7 @@ Ao falar conhecer, eu me refiro ao entendimento da estrutura básica de cada par
 Após entender a estrutura básica de cada parte, é o momento ideal de colocar em prática os conhecimentos.
 
 1. Faça redações "Com apoio"
-	Olhe suas anotações, pegue os repertórios que você escolheu e decida qual melhor se encaixa no tema, olhe redações nota mil daquele tema, use tudo que quiser.
+	Olhe suas anotações, pesquise repertórios e decida qual melhor se encaixa no tema, olhe redações nota mil daquele tema, use tudo que quiser, mas escreva sua própria redação.
 2. Escolha seus repertórios
 	Há milhares de repertórios para se utilizar, mas ter ao menos alguns repertórios coringas e ao menos 1 repertório cultural por eixo temático bem memorizado é ótimo.
 3. Faça redações "Sem apoio"

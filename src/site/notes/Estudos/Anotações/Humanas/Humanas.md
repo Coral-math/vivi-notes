@@ -19,4 +19,6 @@
 		- [[Estudos/Anotações/Humanas/Sociologia/1. Teoria da Sociologia/1.3. Émile Durkheim\|1.3. Émile Durkheim]]
 		- [[Estudos/Anotações/Humanas/Sociologia/1. Teoria da Sociologia/1.4. Karl Marx\|1.4. Karl Marx]]
 		- [[Estudos/Anotações/Humanas/Sociologia/1. Teoria da Sociologia/1.5. Max Weber\|1.5. Max Weber]]
+	- **2. Sociologia no Brasil**
+		- [[Estudos/Anotações/Humanas/Sociologia/2. Sociologia no Brasil/2.1. Gilberto Freyre\|2.1. Gilberto Freyre]]
 
