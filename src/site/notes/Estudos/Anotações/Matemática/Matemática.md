@@ -47,7 +47,9 @@
 		- [[Estudos/Anotações/Matemática/2. Fundamental 2/1. Operações fundamentais/1.4. Expressões numéricas\|1.4. Expressões numéricas]]
 	- **2. Divisibilidade e múltiplos**
 		- [[Estudos/Anotações/Matemática/2. Fundamental 2/2. Divisibilidade e múltiplos/2.1. Critérios de divisibilidade (de 1 a 12)\|2.1. Critérios de divisibilidade (de 1 a 12)]]
-		- [[Estudos/Anotações/Matemática/2. Fundamental 2/2. Divisibilidade e múltiplos/2.2. Fatoração - Rascunho\|2.2. Fatoração - Rascunho]]
+		- [[Estudos/Anotações/Matemática/2. Fundamental 2/2. Divisibilidade e múltiplos/2.2. Números primos\|2.2. Números primos]]
+		- [[Estudos/Anotações/Matemática/2. Fundamental 2/2. Divisibilidade e múltiplos/2.3. Fatoração\|2.3. Fatoração]]
+		- [[Estudos/Anotações/Matemática/2. Fundamental 2/2. Divisibilidade e múltiplos/2.4. Múltiplos e MMC\|2.4. Múltiplos e MMC]]
 	- **3. Frações e números decimais**
 		- [[Estudos/Anotações/Matemática/2. Fundamental 2/3. Frações e números decimais/3.1. Frações\|3.1. Frações]]
 		- [[Estudos/Anotações/Matemática/2. Fundamental 2/3. Frações e números decimais/3.2. Números decimais\|3.2. Números decimais]]
