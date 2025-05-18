@@ -50,6 +50,7 @@
 		- [[Estudos/Anotações/Matemática/2. Fundamental 2/2. Divisibilidade e múltiplos/2.2. Números primos\|2.2. Números primos]]
 		- [[Estudos/Anotações/Matemática/2. Fundamental 2/2. Divisibilidade e múltiplos/2.3. Fatoração\|2.3. Fatoração]]
 		- [[Estudos/Anotações/Matemática/2. Fundamental 2/2. Divisibilidade e múltiplos/2.4. Múltiplos e MMC\|2.4. Múltiplos e MMC]]
+		- [[Estudos/Anotações/Matemática/2. Fundamental 2/2. Divisibilidade e múltiplos/2.5. Máximo Divisor Comum (MDC)\|2.5. Máximo Divisor Comum (MDC)]]
 	- **3. Frações e números decimais**
 		- [[Estudos/Anotações/Matemática/2. Fundamental 2/3. Frações e números decimais/3.1. Frações\|3.1. Frações]]
 		- [[Estudos/Anotações/Matemática/2. Fundamental 2/3. Frações e números decimais/3.2. Números decimais\|3.2. Números decimais]]
@@ -60,8 +61,9 @@
 		- [[Estudos/Anotações/Matemática/2. Fundamental 2/4. Potências e raízes/4.4. Sistema de numeração decimal\|4.4. Sistema de numeração decimal]]
 	- **5. Medidas e proporcionalidade**
 		- [[Estudos/Anotações/Matemática/2. Fundamental 2/5. Medidas e proporcionalidade/5.1. Sistema métrico decimal\|5.1. Sistema métrico decimal]]
-		- [[Estudos/Anotações/Matemática/2. Fundamental 2/5. Medidas e proporcionalidade/5.2. Razão - Rascunho\|5.2. Razão - Rascunho]]
-		- [[Estudos/Anotações/Matemática/2. Fundamental 2/5. Medidas e proporcionalidade/5.3. Proporção - Rascunho\|5.3. Proporção - Rascunho]]
+		- [[Estudos/Anotações/Matemática/2. Fundamental 2/5. Medidas e proporcionalidade/5.2. Razão\|5.2. Razão]]
+		- [[Estudos/Anotações/Matemática/2. Fundamental 2/5. Medidas e proporcionalidade/5.3. Proporção\|5.3. Proporção]]
+		- [[Estudos/Anotações/Matemática/2. Fundamental 2/5. Medidas e proporcionalidade/5.4. Regra de três\|5.4. Regra de três]]
 	- **6. Expressões algébricas**
 		- [[Estudos/Anotações/Matemática/2. Fundamental 2/6. Expressões algébricas/6.1. Produtos notáveis\|6.1. Produtos notáveis]]
 		- [[Estudos/Anotações/Matemática/2. Fundamental 2/6. Expressões algébricas/6.2. Frações algébricas\|6.2. Frações algébricas]]
