@@ -64,6 +64,7 @@
 		- [[Estudos/Anotações/Matemática/2. Fundamental 2/5. Medidas e proporcionalidade/5.2. Razão\|5.2. Razão]]
 		- [[Estudos/Anotações/Matemática/2. Fundamental 2/5. Medidas e proporcionalidade/5.3. Proporção\|5.3. Proporção]]
 		- [[Estudos/Anotações/Matemática/2. Fundamental 2/5. Medidas e proporcionalidade/5.4. Regra de três\|5.4. Regra de três]]
+		- [[Estudos/Anotações/Matemática/2. Fundamental 2/5. Medidas e proporcionalidade/5.5. Escalas numéricas\|5.5. Escalas numéricas]]
 	- **6. Expressões algébricas**
 		- [[Estudos/Anotações/Matemática/2. Fundamental 2/6. Expressões algébricas/6.1. Produtos notáveis\|6.1. Produtos notáveis]]
 		- [[Estudos/Anotações/Matemática/2. Fundamental 2/6. Expressões algébricas/6.2. Frações algébricas\|6.2. Frações algébricas]]
@@ -71,10 +72,8 @@
 		- [[Estudos/Anotações/Matemática/2. Fundamental 2/6. Expressões algébricas/6.4. Fatoração de expressões algébricas - Rascunho\|6.4. Fatoração de expressões algébricas - Rascunho]]
 	- **7. Equações e sistemas algébricos**
 		- [[Estudos/Anotações/Matemática/2. Fundamental 2/7. Equações e sistemas algébricos/7.1. Equação do 1° Grau\|7.1. Equação do 1° Grau]]
-	- **8. Porcentagem e juros**
-		- [[Estudos/Anotações/Matemática/2. Fundamental 2/8. Porcentagem e juros/8.1. Porcentagem - Rascunho\|8.1. Porcentagem - Rascunho]]
-- **3. Aprofundamento**
-- **4. Matemática Elementar**
+	- [[Estudos/Anotações/Matemática/2. Fundamental 2/Porcentagem\|Porcentagem]]
+- **3. Matemática Elementar**
 - [[Estudos/Anotações/Matemática/Anotações para questões\|Anotações para questões]]
 - [[Estudos/Anotações/Matemática/Estudos de matemática\|Estudos de matemática]]
 - [[Estudos/Anotações/Matemática/Matemática\|Matemática]]
